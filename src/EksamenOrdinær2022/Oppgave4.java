@@ -45,7 +45,6 @@ public class Oppgave4
         System.out.println(graderFahrenheiht + " grader Fahrenheiht, i celcius blir: " + KonverterTemperatur.tilCelsius(graderFahrenheiht));
 
 
-
         //TESTE MED ANDRE TALL:
         System.out.println(); //Mellomrom
 

@@ -1,13 +1,15 @@
 # Programmering_DAPE1400_EksamenORD__2022
 
 ## Generell infomasjon
-Ordinær Eksamen i Programmering (DAPE1400), Karakter: 
+Ordinær Eksamen i Programmering (DAPE1400)
 
-Emnekode: DAPE1400 Programmering
+**Karakter**: A
 
-Dato: 12.12.2022
+**Emnekode**: DAPE1400 Programmering
 
-Vurderingsform: Skriftlig eksamen under tilsy
+**Dato**: 12.12.2022
+
+**Vurderingsform**: Skriftlig eksamen under tilsyn
 
 ## Oppgaver:
 
@@ -60,4 +62,4 @@ implementeres.
 I main-metoden skal det så opprettes et objekt av hver type (Lydbok og Papirbok). Disse skal så
 legges inn i en ArrayList av type Bok. Deretter skal attributtene skrives ut i en løkke ved hjelp av
 toString()-metodene.
-Klassediagram var lagt ved..
+Klassediagram var lagt ved.
