@@ -60,4 +60,4 @@ implementeres.
 I main-metoden skal det så opprettes et objekt av hver type (Lydbok og Papirbok). Disse skal så
 legges inn i en ArrayList av type Bok. Deretter skal attributtene skrives ut i en løkke ved hjelp av
 toString()-metodene.
-Klassediagram var lagt ved
+Klassediagram var lagt ved..
