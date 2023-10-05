@@ -1,13 +1,15 @@
 # Programmering_DAPE1400_EksamenORD__2022
 
 ## Generell infomasjon
-Ordinær Eksamen i Programmering (DAPE1400), Karakter: 
+Ordinær Eksamen i Programmering (DAPE1400)
 
-Emnekode: DAPE1400 Programmering
+**Karakter**: A
 
-Dato: 12.12.2022
+**Emnekode**: DAPE1400 Programmering
 
-Vurderingsform: Skriftlig eksamen under tilsy
+**Dato**: 12.12.2022
+
+**Vurderingsform**: Skriftlig eksamen under tilsyn
 
 ## Oppgaver:
 
