@@ -36,7 +36,6 @@ class Liste
         return teller;  //Return antall ganger tallet forekom i listen
     }
 
-
     //3) Tar et heltallsarray inn og finner det største tallet i array
 
     public static int størsteTall(int[] innListe)   //Metode for å finne det største tallet i en liste
